@@ -1,0 +1,29 @@
+[{
+		"codigo":	1,
+		"nome":	"Marilia Almeida Rosa Pereira",
+		"endereco":	"Rua N2 Jardim Goias",
+		"cpf":	"09225983123",
+		"telefone":	"64999393812",
+		"email":	"mariliaalmeida.personal01@gmail.com"
+	}, {
+		"codigo":	2,
+		"nome":	"Jane Adamastor Silva",
+		"endereco":	"Rua N3 jardim das flores",
+		"cpf":	"00010020034",
+		"telefone":	"64900001111",
+		"email":	"janeadmastor@gmail.com"
+	}, {
+		"codigo":	3,
+		"nome":	"Claudia Rocha do Prado",
+		"endereco":	"Rua 67 Jardim dos Planaltos",
+		"cpf":	"01002030065",
+		"telefone":	"64900001001",
+		"email":	"cluadiadoprado@gmail.com"
+	}, {
+		"codigo":	4,
+		"nome":	"Lucas Cardoso",
+		"endereco":	"Rua n45 ",
+		"cpf":	"06410020025",
+		"telefone":	"6498745632",
+		"email":	"lucascardoso@gmail.com"
+	}]
